@@ -1,6 +1,7 @@
 # Logs
 logs
 *.log
+*.snippet
 npm-debug.log*
 
 # Runtime data
@@ -35,3 +36,5 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+.idea/
